@@ -8,7 +8,7 @@ import main.java.com.tradestore.main.pojo.Trade;
 
 /**
  * @author Swapnil
- * This TradeStore uses List to store trades. 
+ * This TradeStore uses Map to store unique trades. 
  *
  */
 public class TradeStore_V1 implements TradeStore{
