@@ -1,6 +1,6 @@
 # TradeStore
 
-Two trade stores created to solve this problem.
+Two trade stores are created to solve this problem.
 
 1. TradeStore_V1: It uses Map to store the unique trades. If Trade id is unique then we can use TradeStore_V1 class to store the trades. Use TradeStoreTester_V1 class for Junit test cases.
 
