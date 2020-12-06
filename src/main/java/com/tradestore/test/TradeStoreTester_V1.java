@@ -50,6 +50,7 @@ public class TradeStoreTester_V1 {
 		assertNotNull(tradeStore.getTradeStore().get("T1").getMaturityDate());
 		assertNotNull(tradeStore.getTradeStore().get("T1").getCreatedDate());
 		assertNotNull(tradeStore.getTradeStore().get("T1").isExpired());
+		
 
 	}
 
